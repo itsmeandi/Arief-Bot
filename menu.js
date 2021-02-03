@@ -109,7 +109,7 @@ return `
 ╰═══════════════
 
 *Follow Me On Instagram*
-@arieff_westa`
+@andibasoamirullah_`
 
 }
 exports.menu = menu
