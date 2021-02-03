@@ -15,14 +15,14 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'ARIWF BOT V1'; 
-const instagram = '@arieff_westa'; 
+const BotName = 'SherlockBot'; 
+const instagram = '@andibasoamirullah_'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Arief Westa\n' // Nama kamu
-            + 'ORG:Arief Bot;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=62895600555028:+62 895-6005-55028\n' //Nomor whatsapp kamu
+            + 'FN:Sherlock\n' // Nama kamu
+            + 'ORG:Sherlock Bot;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6282292119677:+62 822-9211-9677\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
